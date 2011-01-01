@@ -376,7 +376,7 @@ Proper format is !wiki <keywords>.  Get a summmary with the format !wiki
 if __name__ in '__main__':
     '''Asks user for information: channel, nick, password, comlib and server.'''
     
-    chan = '#confabot-test'
+    chan = '#python-forum'
     nick = 'confabot'
 #    nick = raw_input('Enter a nick: ')
     password = ''
